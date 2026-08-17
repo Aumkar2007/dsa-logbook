@@ -1,4 +1,3 @@
-![Progress](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/wiki/<owner>/<repo>/<filename>.md)
 # My 28 DSA Patterns Journey 
 Inspired by the **Padho with Pratyush** course. Tracking pattern-wise problem solving.
 
