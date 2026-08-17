@@ -1,4 +1,4 @@
-# My 28 DSA Patterns Journey 
+# 📂 My dsa-logbook 
 Inspired by the **Padho with Pratyush** course. Tracking pattern-wise problem solving.
 
 ## Pattern Tracker (Progress: 3/28)
@@ -7,8 +7,6 @@ Inspired by the **Padho with Pratyush** course. Tracking pattern-wise problem so
 - [ ] Pattern 3: Prefix Sum
 - [ ] Pattern 4: Fast & Slow Pointers
 - [ ] Pattern 5: Monotonic Stack
-
-# 📂 dsa-logbook
 
 > [!NOTE]
 > Tracking my pattern-wise Data Structures & Algorithms journey inspired by the **Padho with Pratyush** curriculum. 
