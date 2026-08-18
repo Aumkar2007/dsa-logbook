@@ -1,8 +1,8 @@
-# Problem Link: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
-# Pattern: Two Pointers / TwoSum
-# Time Complexity: O(N)
-# Space Complexity: O(1)
+#### Problem Link: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+#### Time Complexity: O(N)
+#### Space Complexity: O(1)
 
+#### Pattern: Two Pointers / TwoSum
 ```python
 def twoSum(self, numbers: List[int], target: int) -> List[int]:
         n=len(numbers)
