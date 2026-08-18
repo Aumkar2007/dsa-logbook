@@ -5,5 +5,5 @@ graph TD;
     B-->D[Rearrange/Remove Duplicates/Merge inplace/ Subarrays];
     B-->E[Finding Pairs/Triplets/Quadruplets];
     B-->F[Detect cycle];
-    B-->E[Zero Space, SpaceComplexity=O(1)];
+    B-->E[Zero Space, SpaceComplexity is O(1)];
 ```
