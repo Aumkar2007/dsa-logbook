@@ -1,7 +1,7 @@
 ```mermaid
 graph TD;
     A[When to use Sliding Window]-->B[Array/String, Not with Linklist];
-    B-->C[Continuous[Subarray/Substring]];
+    B-->C[Continuous, Subarray/Substring];
 ```
 ```mermaid
 graph TD;
