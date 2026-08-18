@@ -1,6 +1,6 @@
 ```mermaid
 graph TD;
-    A[When to use Sliding Window]-->B[Array/String, Not with Linklist(99.9% times)];
+    A[When to use Sliding Window]-->B[Array/String, Not with Linklist];
     B-->C[Subarray/Substring(continuous)];
 ```
 ```mermaid
