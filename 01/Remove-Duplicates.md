@@ -1,4 +1,4 @@
-#### Pattern: Two Pointers / Remove Duplicates
+### Pattern: Two Pointers / Remove Duplicates
 ```python
 def removeDuplicates(self, nums: List[int]) -> int:
         low=0
