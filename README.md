@@ -3,7 +3,7 @@
 ### 🗺️ The 28 Patterns Roadmap
 
 <details>
-<summary><b>🔹 [Pattern 01: Two Pointers](./01/readme.md)</b></summary>
+<summary><b>🔹<a href="./01/readme.md"> Pattern 01: Two Pointers </a> </b></summary>
 <br>
 
 - [x] [Problem 1: Valid Palindrome](./01/twosum.py)
