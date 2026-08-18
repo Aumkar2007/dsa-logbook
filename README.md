@@ -6,9 +6,13 @@
 <summary><b>🔹<a href="./01/readme.md"> Pattern 01: Two Pointers </a> </b></summary>
 <br>
 
--  [Problem 1: Valid Palindrome](./01/twosum.py)
--  Problem 2: Two Sum (Sorted Array)
--  Problem 3: 3Sum
+-  [Problem 1: Two Sum](./01/twosum.py)
+-  [Problem 2: Rearrange 0 and 1]
+-  [Problem 3: Remove Duplicates]
+-  [Problem 3: Remove Duplicates]
+-  [Problem 3: Remove Duplicates]
+-  [Problem 3: Remove Duplicates]
+-  [Problem 3: Remove Duplicates]
 </details>
 
 <details>
