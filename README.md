@@ -8,7 +8,7 @@
 
 -  [Problem 1: Two Sum](./01/twosum.md)
 -  [Problem 2: Remove Duplicate](./01/Remove-Duplicates.md)
--  [Problem 3: Merging Sorted Array, Squaring Sorted Array](./01/merge-squ-ps.md)
+-  [Problem 3: Merging Sorted Array](./01/merge-array.md)
 -  [Problem 3: Remove Duplicates](./01/twosum.py)
 -  [Problem 3: Remove Duplicates]
 -  [Problem 3: Remove Duplicates]
