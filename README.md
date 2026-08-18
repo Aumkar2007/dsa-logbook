@@ -1,9 +1,6 @@
 # 📂 My dsa-logbook 
-Inspired by the **Padho with Pratyush** course. Tracking pattern-wise problem solving.
-
 > [!NOTE]
-> Tracking my pattern-wise Data Structures & Algorithms journey inspired by the **Padho with Pratyush** curriculum. 
-
+> Inspired by the **Padho with Pratyush** course.Tracking my pattern-wise Data Structures & Algorithms journey.
 ---
 
 ### 📊 Progress Dashboard
