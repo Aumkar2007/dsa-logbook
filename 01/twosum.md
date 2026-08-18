@@ -1,4 +1,4 @@
-#### Pattern: Two Pointers / TwoSum
+### Pattern: Two Pointers / TwoSum
 ```python
 def twoSum(self, numbers: List[int], target: int) -> List[int]:
         n=len(numbers)
