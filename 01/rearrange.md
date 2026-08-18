@@ -1,4 +1,4 @@
-#### Pattern: Two Pointers / Rearrange 0 and 1
+### Pattern: Two Pointers / Rearrange 0 and 1
 ```python
 def segregate0and1(self, arr):
         z=0
