@@ -16,10 +16,10 @@
 </details>
 
 <details>
-<summary><b>🔹 Pattern 02: Sliding Window</b></summary>
+<summary><b>🔹<a href="./02/readme.md"> Pattern 02: Sliding Window</a></b></summary>
 <br>
 
--  Problem 1: Maximum Sum Subarray of Size K
+-  Problem 1: [Maximum Sum Subarray of Size K](./02/maxsum.md)
 -  Problem 2: Longest Substring Without Repeating Characters
 </details>
 
