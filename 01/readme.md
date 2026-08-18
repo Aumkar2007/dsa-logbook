@@ -1,6 +1,6 @@
 ```mermaid
 graph TD;
-    A-->B;
+    A[When to use Two Pointers]-->B;
     A-->C;
     B-->D;
     C-->D;
