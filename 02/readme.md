@@ -10,3 +10,10 @@ graph TD;
     C-->D[Sum/ Count/ Average];
     D-->E[Atmost k/ Atleast k/ Exactly k];
 ```
+```mermaid
+graph TD;
+    A[Steps]-->B[1-Identify Pattern];
+    B-->C[Fixed/Variable];
+    C-->D[Information];
+    D-->E[Next window information];
+```
