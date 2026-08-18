@@ -1,15 +1,4 @@
 # 📂 My dsa-logbook 
-> [!NOTE]
-> Inspired by the **Padho with Pratyush** course.Tracking my pattern-wise Data Structures & Algorithms journey.
----
-
-### 📊 Progress Dashboard
-
-| Total Patterns | Completed | Target Language | Status |
-| :--- | :---: | :---: | :---: |
-| 28 | **02** / 28 | Python / C++ | 🚀 In Progress |
-
----
 
 ### 🗺️ The 28 Patterns Roadmap
 
@@ -36,7 +25,15 @@
 
 - [ ] Problem 1: Subarray Sum Equals K
 </details>
+---
+### 📊 Progress Dashboard
 
+| Total Patterns | Completed | Target Language | Status |
+| :--- | :---: | :---: | :---: |
+| 28 | **02** / 28 | Python / C++ | 🚀 In Progress |
+---
+> [!NOTE]
+> Inspired by the **Padho with Pratyush** course.Tracking my pattern-wise Data Structures & Algorithms journey.
 ---
 *“Consistency beats intensity.” Happy Coding!*
 
