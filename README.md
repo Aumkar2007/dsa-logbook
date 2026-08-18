@@ -9,10 +9,10 @@
 -  [Problem 1: Two Sum](./01/twosum.md)
 -  [Problem 2: Remove Duplicate](./01/Remove-Duplicates.md)
 -  [Problem 3: Merging Sorted Array](./01/merge-array.md)
--  [Problem 3: Remove Duplicates](./01/twosum.py)
--  [Problem 3: Remove Duplicates]
--  [Problem 3: Remove Duplicates]
--  [Problem 3: Rearrange 0 and 1]
+-  [Problem 4: Squaring a Sorted Array](./01/Squaring a Sorted Array.md)
+-  [Problem 5: Triplet Sum to Zero](./01/3Sum.md)
+-  [Problem 6: Triplet Sum Close to Target](./01/3Sum Close to Target.md)
+-  [Problem 7: Dutch National Flag Problem](./01/dutch.md)
 </details>
 
 <details>
