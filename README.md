@@ -6,13 +6,13 @@
 <summary><b>🔹<a href="./01/readme.md"> Pattern 01: Two Pointers </a> </b></summary>
 <br>
 
--  [Problem 1: Two Sum](./01/twosum.md)
--  [Problem 2: Remove Duplicate](./01/Remove-Duplicates.md)
--  [Problem 3: Merging Sorted Array](./01/merge-array.md)
--  [Problem 4: Squaring a Sorted Array](./01/Squaring-Sorted-Array.md)
--  [Problem 5: Triplet Sum to Zero](./01/3Sum.md)
--  [Problem 6: Triplet Sum Close to Target](./01/3Sum-Close-to-Target.md)
--  [Problem 7: Dutch National Flag Problem](./01/dutch.md)
+-  Problem 1: [Two Sum](./01/twosum.md)
+-  Problem 2: [Remove Duplicate](./01/Remove-Duplicates.md)
+-  Problem 3: [Merging Sorted Array](./01/merge-array.md)
+-  Problem 4: [Squaring a Sorted Array](./01/Squaring-Sorted-Array.md)
+-  Problem 5: [Triplet Sum to Zero](./01/3Sum.md)
+-  Problem 6: [Triplet Sum Close to Target](./01/3Sum-Close-to-Target.md)
+-  Problem 7: [Dutch National Flag Problem](./01/dutch.md)
 </details>
 
 <details>
@@ -21,7 +21,7 @@
 
 -  Problem 1: [Maximum Sum Subarray of Size K](./02/maxsum.md)
 -  Problem 2: [Smallest Subarray with a given sum](./02/fire-hire.md)
--  [Problem 3: Longest Substring with K Distinct Characters](./02/longest-substring.md)
+-  Problem 3: [Longest Substring with K Distinct Characters](./02/longest-substring.md)
 </details>
 
 <details>
