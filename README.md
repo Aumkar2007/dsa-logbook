@@ -22,6 +22,7 @@
 -  Problem 1: [Maximum Sum Subarray of Size K](./02/maxsum.md)
 -  Problem 2: [Smallest Subarray with a given sum](./02/fire-hire.md)
 -  Problem 3: [Longest Substring with K Distinct Characters](./02/longest-substring.md)
+-  Problem 4: [Fruits into Baskets](./02/fruit.md)
 </details>
 
 <details>
