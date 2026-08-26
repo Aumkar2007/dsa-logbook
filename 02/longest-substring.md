@@ -1,4 +1,4 @@
-### Pattern: Sliding Window / Smallest Subarray with a given sum
+### Pattern: Sliding Window / Longest Substring with K Distinct Characters
 ```python
 def longestKSubstr(self, s, k):
         n=len(s)
