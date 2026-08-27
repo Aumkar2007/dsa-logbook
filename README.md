@@ -3,7 +3,7 @@
 ### 🗺️ The 28 Patterns Roadmap
 
 <details>
-<summary><b>🔹<a href="./01/readme.md"> Pattern 01: Two Pointers </a> </b></summary>
+<summary><b>🔹Pattern 01:<a href="./01/readme.md"> Two Pointers </a> </b></summary>
 <br>
 
 -  Problem 1: [Two Sum](./01/twosum.md)
@@ -16,7 +16,7 @@
 </details>
 
 <details>
-<summary><b>🔹<a href="./02/readme.md"> Pattern 02: Sliding Window</a></b></summary>
+<summary><b>🔹 Pattern 02:<a href="./02/readme.md"> Sliding Window</a></b></summary>
 <br>
 
 -  Problem 1: [Maximum Sum Subarray of Size K](./02/maxsum.md)
