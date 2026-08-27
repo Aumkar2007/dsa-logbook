@@ -24,6 +24,7 @@
 -  Problem 3: [Longest Substring with K Distinct Characters](./02/longest-substring.md)
 -  Problem 4: [Fruits into Baskets](./02/fruit.md)
 -  Problem 5: [No-repeat Substring](./02/No-repeat-Substring.md)
+-  Problem 6: [Longest Substring with Same Letters after Replacement](./02/Longest-repeat-ch-Replace.md)
 </details>
 
 <details>
