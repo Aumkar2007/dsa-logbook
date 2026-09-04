@@ -25,7 +25,7 @@
 -  Problem 4: [Fruits into Baskets](./02/fruit.md)
 -  Problem 5: [No-repeat Substring](./02/No-repeat-Substring.md)
 -  Problem 6: [Longest Substring with Same Letters after Replacement](./02/Longest-repeat-ch-Replace.md)
--  Problem 7: [Dutch National Flag Problem](./01/Min-Size-Substring.md)
+-  Problem 7: [MInimum Size Substring](./02/Min-Size-Substring.md)
 </details>
 
 <details>
